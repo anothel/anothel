@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=anothel)](https://solved.ac/anothel)
 
-<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={anothel}&theme=warm)
+
+<img src="http://mazandi.herokuapp.com/api?handle={anothel}&theme=warm"/>
